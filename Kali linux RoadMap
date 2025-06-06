@@ -1,0 +1,88 @@
+KALI LINUX TOPIC
+🔧 1. Basic Linux Commands & File System
+Navigation (cd, ls, pwd, etc.)✅
+
+File manipulation (cp, mv, rm, touch, nano/vim)✅
+
+Permissions and ownership (chmod, chown, umask)✅
+
+Process management (ps, top, kill, htop)✅
+
+Networking commands (ifconfig, ip, netstat, ss, ping, traceroute)✅
+
+🧰 2. Commonly Used Tools in Kali Linux
+Nmap – Network scanning & reconnaissance✅
+
+Wireshark – Network packet analysis✅
+
+Burp Suite – Web vulnerability testing✅ 
+
+Metasploit Framework – Exploitation & payload delivery
+
+Hydra – Brute force password attacks
+
+John the Ripper – Password cracking
+
+Nikto – Web server scanner
+
+Aircrack-ng – Wireless network penetration testing
+
+Sqlmap – Automated SQL injection tool
+
+🌐 3. Networking and Protocols
+TCP/IP fundamentals
+
+DNS, DHCP, ARP, HTTP/HTTPS, FTP, SSH
+
+Network topology and device roles
+
+🔍 4. Information Gathering & Scanning
+Active vs. passive reconnaissance
+
+WHOIS, DNSenum, theHarvester
+
+Nmap for port and OS scanning
+
+Shodan (integration in Kali)
+
+🕷 5. Vulnerability Assessment
+Using tools like OpenVAS or Nessus (though Nessus isn't pre-installed)
+
+CVE databases and vulnerability mapping
+
+🛠 6. Exploitation and Post-Exploitation
+Metasploit module usage
+
+Reverse shells (Netcat, Bash, PowerShell)
+
+Privilege escalation techniques
+
+Maintaining access (persistence)
+
+📱 7. Wireless Attacks
+Packet sniffing (Airodump-ng)
+
+Deauthentication attacks (Aireplay-ng)
+
+WPA/WPA2 handshake capture and cracking
+
+🌐 8. Web Application Security Testing
+OWASP Top 10
+
+Burp Suite usage
+
+XSS, CSRF, SQLi, RFI/LFI
+
+🧱 9. Firewall and IDS/IPS Evasion
+Packet crafting (Hping3, Scapy)
+
+Proxychains & Tor usage
+
+Encoding and obfuscation techniques
+
+🧪 10. Scripting & Automation
+Bash scripting
+
+Python scripting (especially with scapy, requests)
+
+Automating scanning and reporting tasks
